@@ -70,6 +70,8 @@
 
   .header a {
     background-color: #f5f5f5;
+    padding: 10px 20px;
+    color: #000;
     border-radius: 4px;
   }
 }
