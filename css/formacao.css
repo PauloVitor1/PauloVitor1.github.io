@@ -19,7 +19,7 @@
   position: relative;
 }
 
-/* .formacao_container::after {
+.formacao_container::after {
   content: "";
   display: block;
   width: 130px;
@@ -28,7 +28,7 @@
   position: absolute;
   bottom: -50px;
   left: 20px;
-} */
+}
 
 .text_formacao {
   font-size: 1.5rem;
@@ -111,13 +111,13 @@
   top: -4px;
 }
 
-/* .cursos h3::before {
-  background: url(../img/detalhe.png) no-repeat center center;
+.cursos h3::before {
+  background: url(../img/cursos.svg) no-repeat center center;
 }
 
 .idiomas h3::before {
-  background: url(../img/language-solid.svg) no-repeat center center;
-} */
+  background: url(../img/idiomas.svg) no-repeat center center;
+}
 
 .formacao_extra li {
   font-size: 1.125rem;
