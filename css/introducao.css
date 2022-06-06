@@ -16,7 +16,6 @@
   line-height: 1.125;
   margin-bottom: 30px;
   position: relative;
-  font-family: 'Roboto', sans-serif;
   color: #FFF;
 }
 
@@ -39,7 +38,6 @@
 .introducao p {
   font-size: 1.5rem;
   color: #fff;
-  font-family: 'Poppins', sans-serif;
 }
 
 @media (max-width: 1000px) {
